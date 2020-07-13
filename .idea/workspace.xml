@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3806cc14-3755-4a06-9d33-5528505c0773" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assests/img/shequal_imag_1.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assests/img/wibd_1.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,6 +48,14 @@
       <workItem from="1594652751634" duration="1068000" />
       <workItem from="1594653821298" duration="1690000" />
     </task>
+    <task id="LOCAL-00001" summary="update the site with content and color code for wibd">
+      <created>1594655966054</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1594655966054</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -58,13 +63,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="refactor and removed unused files and links" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactor and removed unused files and links" />
+    <MESSAGE value="update the site with content and color code for wibd" />
+    <option name="LAST_COMMIT_MESSAGE" value="update the site with content and color code for wibd" />
   </component>
   <component name="WindowStateProjectService">
     <state x="627" y="209" width="655" height="619" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594655764420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="209" width="655" height="619" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594655764420" />
+    <state x="335" y="13" width="1240" height="1011" key="CommitChangelistDialog2" timestamp="1594655965822">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="335" y="13" width="1240" height="1011" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594655965822" />
     <state x="690" y="220" width="530" height="598" key="FileChooserDialogImpl" timestamp="1594653818189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -73,5 +83,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="548" y="154" width="813" height="729" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594653781170" />
+    <state x="455" y="192" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1594655969233">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="455" y="192" width="1000" height="654" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594655969233" />
   </component>
 </project>
