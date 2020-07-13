@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3806cc14-3755-4a06-9d33-5528505c0773" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/wibd.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/shequal_foundation.html" beforeDir="false" afterPath="$PROJECT_DIR$/shequal_foundation.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,21 @@
       <option name="project" value="LOCAL" />
       <updated>1594656436245</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="merge wibd and add email to it">
+      <created>1594656565189</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1594656565189</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update .gitignore file">
+      <created>1594656638006</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1594656638006</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -89,17 +103,19 @@
     <MESSAGE value="update the site with content and color code for wibd" />
     <MESSAGE value="refactor" />
     <MESSAGE value="merge shequal foundation page" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge shequal foundation page" />
+    <MESSAGE value="merge wibd and add email to it" />
+    <MESSAGE value="update .gitignore file" />
+    <option name="LAST_COMMIT_MESSAGE" value="update .gitignore file" />
   </component>
   <component name="WindowStateProjectService">
     <state x="627" y="209" width="655" height="619" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1594655764420">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="627" y="209" width="655" height="619" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594655764420" />
-    <state x="335" y="13" width="1240" height="1011" key="CommitChangelistDialog2" timestamp="1594656436101">
+    <state x="335" y="13" width="1240" height="1011" key="CommitChangelistDialog2" timestamp="1594656637888">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="335" y="13" width="1240" height="1011" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594656436101" />
+    <state x="335" y="13" width="1240" height="1011" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1594656637888" />
     <state x="690" y="220" width="530" height="598" key="FileChooserDialogImpl" timestamp="1594653818189">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -108,10 +124,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="548" y="154" width="813" height="729" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594653781170" />
-    <state x="455" y="192" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1594656439859">
+    <state x="455" y="192" width="1000" height="654" key="Vcs.Push.Dialog.v2" timestamp="1594656640268">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="455" y="192" width="1000" height="654" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594656439859" />
+    <state x="455" y="192" width="1000" height="654" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1594656640268" />
     <state x="577" y="167" width="755" height="704" key="git4idea.branch.GitSmartOperationDialog" timestamp="1594656419248">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
